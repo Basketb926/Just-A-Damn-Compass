@@ -113,7 +113,7 @@ public class MainActivity extends Activity {
             // rotate
             
             if (mValues != null) {
-                rotator.setRotate(-mValues[0], nWidth/2, nHeight/2);
+                rotator.setRotate(-mValues[0]+29, nWidth/2, nHeight/2);
             }
             
             canvas.drawBitmap(backgroundImage, matrix, null);
