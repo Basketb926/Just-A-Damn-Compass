@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">Just A Damn Compass</string>
+	<string name="app_name">Manhattan North Compass</string>
 	<string name="invert_menu">Invert</string>
 	<string name="about_menu">About</string>
 	<string name="about_text">
-		This app is just a compass.
+		This app is just a compass that point towards Manhattan North (29 degrees east of North)
 		\n	    
 		\nMore information and the source code is at https://github.com/jarofgreen/Just-A-Damn-Compass
 		\n
